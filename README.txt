@@ -1,5 +1,4 @@
 Blue Axolotl Advancement Version 1.2.3
-For Minecraft 26.1 and higher
 Created by Diantina
 
 Thanks for downloading and using my datapack.
