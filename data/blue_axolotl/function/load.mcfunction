@@ -1,0 +1,1 @@
+scoreboard objectives add used_axolotl_bucket minecraft.used:minecraft.axolotl_bucket

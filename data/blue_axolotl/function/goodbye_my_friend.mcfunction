@@ -1,0 +1,1 @@
+execute if biome ~ ~ ~ minecraft:lush_caves if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..5] run advancement grant @s only blue_axolotl:husbandry/goodbye_my_friend

@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:moss_block"
+    },
+    "title": "Goodbye, My Friend <3",
+    "description": "Release the Blue Axolotl into a Lush Cave",
+    "frame": "goal"
+  },
+  "parent": "blue_axolotl:husbandry/a_very_rare_catch",
+  "criteria": {
+    "blue_axolotl_in_lush_caves": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
