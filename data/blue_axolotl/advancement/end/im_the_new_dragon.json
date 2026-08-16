@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_dragon_spawn_egg"
+    },
+    "title": "I'm the new Dragon",
+    "description": "Have the Blue Axolotl in The End",
+    "frame": "task"
+  },
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "blue_dragon": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
