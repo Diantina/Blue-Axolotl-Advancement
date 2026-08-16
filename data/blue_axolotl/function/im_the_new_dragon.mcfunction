@@ -1,0 +1,1 @@
+execute if dimension minecraft:the_end if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..5] run advancement grant @s only blue_axolotl:end/im_the_new_dragon
