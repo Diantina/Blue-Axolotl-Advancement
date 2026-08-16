@@ -9,7 +9,7 @@
   },
   "parent": "blue_axolotl:husbandry/a_very_rare_catch",
   "criteria": {
-    "blue_axolotl_in_lush_caves": {
+    "lush_home": {
       "trigger": "minecraft:impossible"
     }
   }
