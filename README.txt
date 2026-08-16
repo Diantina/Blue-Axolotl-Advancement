@@ -1,4 +1,4 @@
-Blue Axolotl Advancement Version 1.2.5
+Blue Axolotl Advancement Version 1.2.6
 Created by Diantina
 
 Thanks for downloading and using my datapack.
