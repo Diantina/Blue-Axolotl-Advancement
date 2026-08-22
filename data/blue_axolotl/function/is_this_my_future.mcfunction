@@ -1,0 +1,1 @@
+execute if predicate blue_axolotl:ancient_city if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..3] run advancement grant @s only blue_axolotl:adventure/is_this_my_future
