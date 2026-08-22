@@ -1,0 +1,241 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:blue_dye",
+      "components": {
+        "minecraft:enchantment_glint_override": true
+      }
+    },
+    "title": "Overworld Tourist",
+    "description": "Visit all Overworld biomes with your blue companion",
+    "frame": "challenge"
+  },
+  "parent": "minecraft:adventure/adventuring_time",
+  "criteria": {
+    "plains": {
+      "trigger": "minecraft:impossible"
+    },
+    "sunflower_plains": {
+      "trigger": "minecraft:impossible"
+    },
+    "ice_spikes": {
+      "trigger": "minecraft:impossible"
+    },
+    "snowy_plains": {
+      "trigger": "minecraft:impossible"
+    },
+    "desert": {
+      "trigger": "minecraft:impossible"
+    },
+    "swamp": {
+      "trigger": "minecraft:impossible"
+    },
+    "mangrove_swamp": {
+      "trigger": "minecraft:impossible"
+    },
+    "forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "flower_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "birch_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "dark_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "pale_garden": {
+      "trigger": "minecraft:impossible"
+    },
+    "old_growth_birch_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "old_growth_pine_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "old_growth_spruce_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "snowy_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "savanna": {
+      "trigger": "minecraft:impossible"
+    },
+    "savanna_plateau": {
+      "trigger": "minecraft:impossible"
+    },
+    "windswept_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "windswept_gravelly_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "windswept_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "windswept_savanna": {
+      "trigger": "minecraft:impossible"
+    },
+    "jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "sparse_jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "bamboo_jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "badlands": {
+      "trigger": "minecraft:impossible"
+    },
+    "eroded_badlands": {
+      "trigger": "minecraft:impossible"
+    },
+    "wooded_badlands": {
+      "trigger": "minecraft:impossible"
+    },
+    "meadow": {
+      "trigger": "minecraft:impossible"
+    },
+    "cherry_grove": {
+      "trigger": "minecraft:impossible"
+    },
+    "grove": {
+      "trigger": "minecraft:impossible"
+    },
+    "snowy_slopes": {
+      "trigger": "minecraft:impossible"
+    },
+    "frozen_peaks": {
+      "trigger": "minecraft:impossible"
+    },
+    "jagged_peaks": {
+      "trigger": "minecraft:impossible"
+    },
+    "stony_peaks": {
+      "trigger": "minecraft:impossible"
+    },
+    "river": {
+      "trigger": "minecraft:impossible"
+    },
+    "frozen_river": {
+      "trigger": "minecraft:impossible"
+    },
+    "beach": {
+      "trigger": "minecraft:impossible"
+    },
+    "snowy_beach": {
+      "trigger": "minecraft:impossible"
+    },
+    "stony_shore": {
+      "trigger": "minecraft:impossible"
+    },
+    "warm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "lukewarm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "deep_lukewarm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "deep_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "cold_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "deep_cold_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "frozen_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "deep_frozen_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "mushroom_fields": {
+      "trigger": "minecraft:impossible"
+    },
+    "dripstone_caves": {
+      "trigger": "minecraft:impossible"
+    },
+    "lush_caves": {
+      "trigger": "minecraft:impossible"
+    },
+    "deep_dark": {
+      "trigger": "minecraft:impossible"
+    },
+    "sulfur_caves": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+      ["plains"],
+      ["sunflower_plains"],
+      ["ice_spikes"],
+      ["snowy_plains"],
+      ["desert"],
+      ["swamp"],
+      ["mangrove_swamp"],
+      ["forest"],
+      ["flower_forest"],
+      ["birch_forest"],
+      ["dark_forest"],
+      ["pale_garden"],
+      ["old_growth_birch_forest"],
+      ["old_growth_pine_taiga"],
+      ["old_growth_spruce_taiga"],
+      ["taiga"],
+      ["snowy_taiga"],
+      ["savanna"],
+      ["savanna_plateau"],
+      ["windswept_hills"],
+      ["windswept_gravelly_hills"],
+      ["windswept_forest"],
+      ["windswept_savanna"],
+      ["jungle"],
+      ["sparse_jungle"],
+      ["bamboo_jungle"],
+      ["badlands"],
+      ["eroded_badlands"],
+      ["wooded_badlands"],
+      ["meadow"],
+      ["cherry_grove"],
+      ["grove"],
+      ["snowy_slopes"],
+      ["frozen_peaks"],
+      ["jagged_peaks"],
+      ["stony_peaks"],
+      ["river"],
+      ["frozen_river"],
+      ["beach"],
+      ["snowy_beach"],
+      ["stony_shore"],
+      ["warm_ocean"],
+      ["lukewarm_ocean"],
+      ["deep_lukewarm_ocean"],
+      ["ocean"],
+      ["deep_ocean"],
+      ["cold_ocean"],
+      ["deep_cold_ocean"],
+      ["frozen_ocean"],
+      ["deep_frozen_ocean"],
+      ["mushroom_fields"],
+      ["dripstone_caves"],
+      ["lush_caves"],
+      ["deep_dark"],
+      ["sulfur_caves"]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}
