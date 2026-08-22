@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:reinforced_deepslate"
+    },
+    "title": "Is This My Future?",
+    "description": "Have a blue Axolotl inside an Ancient City",
+    "frame": "challenge"
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "ancient_city": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}
