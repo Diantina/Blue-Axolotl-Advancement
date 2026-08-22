@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:lava_bucket",
+      "components": {
+        "minecraft:enchantment_glint_override": true
+      }
+    },
+    "title": "Please, Let Me Back in My Bucket!",
+    "description": "Visit every Nether biome with your blue companion… who is really not happy about it",
+    "frame": "goal"
+  },
+  "parent": "minecraft:nether/explore_nether",
+  "criteria": {
+    "basalt_deltas": {
+      "trigger": "minecraft:impossible"
+    },
+    "crimson_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "nether_wastes": {
+      "trigger": "minecraft:impossible"
+    },
+    "soul_sand_valley": {
+      "trigger": "minecraft:impossible"
+    },
+    "warped_forest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+      ["basalt_deltas"],
+      ["crimson_forest"],
+      ["nether_wastes"],
+      ["soul_sand_valley"],
+      ["warped_forest"]
+  ]
+}
