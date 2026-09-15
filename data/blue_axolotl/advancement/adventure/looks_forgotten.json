@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:straw_bed"
+    },
+    "title": "Looks Forgotten...",
+    "description": "Find an Abandoned Camp with your blue companion",
+    "frame": "task"
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "abandoned_camp": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

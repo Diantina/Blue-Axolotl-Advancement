@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:buried_ancient_city_map"
+    },
+    "title": "Whispers from Below",
+    "description": "Find a Buried Ancient City Map",
+    "frame": "goal"
+  },
+  "parent": "blue_axolotl:adventure/looks_forgotten",
+  "criteria": {
+    "find_buried_ac_map": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:buried_ancient_city_map"
+          }
+        ]
+      }
+    }
+  }
+}

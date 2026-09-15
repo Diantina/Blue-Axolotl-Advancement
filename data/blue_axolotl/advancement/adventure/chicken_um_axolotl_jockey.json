@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:vindicator_spawn_egg"
+    },
+    "title": "Chicken... uhmmm Axolotl Jockey?",
+    "description": "Have your blue companion inside a Woodland Mansion",
+    "frame": "challenge"
+  },
+  "parent": "blue_axolotl:adventure/the_illagers_home",
+  "criteria": {
+    "mansion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

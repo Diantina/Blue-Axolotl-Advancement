@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:woodland_mansion_map"
+    },
+    "title": "The Illagers Home!",
+    "description": "Trade or find a Woodland Mansion Map",
+    "frame": "goal"
+  },
+  "parent": "blue_axolotl:adventure/looks_forgotten",
+  "criteria": {
+    "trade_or_find": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:woodland_mansion_map"
+          }
+        ]
+      }
+    }
+  }
+}

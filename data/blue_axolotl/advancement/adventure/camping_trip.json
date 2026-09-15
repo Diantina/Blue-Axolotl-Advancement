@@ -1,0 +1,126 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:campfire"
+    },
+    "title": "Camping Trip!",
+    "description": "Visit every Abandoned Camp with your blue companion",
+    "frame": "challenge"
+  },
+  "parent": "blue_axolotl:adventure/looks_forgotten",
+  "criteria": {
+    "abandoned_camp_bamboo_jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_birch_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_cherry_grove": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_dappled_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_flower_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_meadow": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_old_growth_birch_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_old_growth_pine_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_old_growth_spruce_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_pale_garden": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_savanna": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_snowy_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_sparse_jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_swamp": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_windswept_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "abandoned_camp_wooded_badlands": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "abandoned_camp_bamboo_jungle"
+    ],
+    [
+      "abandoned_camp_birch_forest"
+    ],
+    [
+      "abandoned_camp_cherry_grove"
+    ],
+    [
+      "abandoned_camp_dappled_forest"
+    ],
+    [
+      "abandoned_camp_flower_forest"
+    ],
+    [
+      "abandoned_camp_forest"
+    ],
+    [
+      "abandoned_camp_meadow"
+    ],
+    [
+      "abandoned_camp_old_growth_birch_forest"
+    ],
+    [
+      "abandoned_camp_old_growth_pine_taiga"
+    ],
+    [
+      "abandoned_camp_old_growth_spruce_taiga"
+    ],
+    [
+      "abandoned_camp_pale_garden"
+    ],
+    [
+      "abandoned_camp_savanna"
+    ],
+    [
+      "abandoned_camp_snowy_taiga"
+    ],
+    [
+      "abandoned_camp_sparse_jungle"
+    ],
+    [
+      "abandoned_camp_swamp"
+    ],
+    [
+      "abandoned_camp_taiga"
+    ],
+    [
+      "abandoned_camp_windswept_forest"
+    ],
+    [
+      "abandoned_camp_wooded_badlands"
+    ]
+  ],
+  "rewards": {
+    "experience": 300
+  }
+}
