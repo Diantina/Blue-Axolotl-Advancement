@@ -107,3 +107,5 @@ execute if biome ~ ~ ~ minecraft:lush_caves if entity @e[type=minecraft:axolotl,
 execute if biome ~ ~ ~ minecraft:deep_dark if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..5] run advancement grant @s only blue_axolotl:adventure/overworld_tourist deep_dark
 
 execute if biome ~ ~ ~ minecraft:sulfur_caves if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..5] run advancement grant @s only blue_axolotl:adventure/overworld_tourist sulfur_caves
+
+execute if biome ~ ~ ~ minecraft:dappled_forest if entity @e[type=minecraft:axolotl,nbt={Variant:4},distance=..5] run advancement grant @s only blue_axolotl:adventure/overworld_tourist dappled_forest
