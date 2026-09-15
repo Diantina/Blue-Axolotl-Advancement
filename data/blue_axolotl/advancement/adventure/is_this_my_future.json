@@ -7,7 +7,7 @@
     "description": "Have a blue Axolotl inside an Ancient City",
     "frame": "challenge"
   },
-  "parent": "minecraft:adventure/root",
+  "parent": "blue_axolotl:adventure/whispers_from_below",
   "criteria": {
     "ancient_city": {
       "trigger": "minecraft:impossible"
